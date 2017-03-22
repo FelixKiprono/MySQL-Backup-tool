@@ -1,0 +1,17 @@
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Texas\Texas\bin\Debug\Texas.exe.config
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Texas\Texas\bin\Debug\Texas.exe
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Texas\Texas\bin\Debug\Texas.pdb
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Texas\Texas\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Texas\Texas\obj\Debug\Texas.Properties.Resources.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Texas\Texas\obj\Debug\Texas.Texas.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Texas\Texas\obj\Debug\Texas.csproj.GenerateResource.Cache
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Texas\Texas\obj\Debug\Texas.exe
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Texas\Texas\obj\Debug\Texas.pdb
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Texas\Texas\obj\Debug\Texas.Backup.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Texas\Texas\bin\Debug\MySql.Data.dll
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Texas\Texas\bin\Debug\MySqlBackup.dll
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Texas\Texas\obj\Debug\Texas.RestoreDb.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Texas\Texas\obj\Debug\Texas.Status.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Texas\Texas\obj\Debug\Texas.About.resources
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Texas\Texas\obj\Debug\Texas.csprojResolveAssemblyReference.cache
+C:\Users\FELIXGREEN\Documents\Visual Studio 2015\Projects\Texas\Texas\obj\Debug\Texas.Exit.resources
